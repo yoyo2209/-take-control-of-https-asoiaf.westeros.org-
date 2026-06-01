@@ -1,7 +1,16 @@
 # -take-control-of-https-asoiaf.westeros.org-
 Log in without authorization and become an administrator of https://asoiaf.westeros.org/
 name: CI
-
+Package: com.level3tjg.# -take-control-of-https-asoiaf.westeros.org-
+Name: # -take-control-of-https-asoiaf.westeros.org-
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: # -take-control-of-https-asoiaf.westeros.org-
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.# -take-control-of-https-asoiaf.westeros.org-
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000) 
 on:
   push:
   workflow_dispatch:
